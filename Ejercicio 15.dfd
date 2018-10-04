@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Ingrese el dia'
+5
+1
+1
+D
+4
+1
+16
+'Ingrese el mes'
+5
+1
+1
+M
+4
+1
+16
+'Ingrese el año'
+5
+1
+1
+A
+9
+1
+6
+A != 0
+7
+0
+1
+44
+A < 0 OR D <= 0 OR M <=0 OR D > 31 OR M > 12
+4
+1
+16
+'Fechas Validas'
+13
+4
+1
+18
+'Fechas Invalidas'
+13
+4
+1
+16
+'Ingrese el dia'
+5
+1
+1
+D
+4
+1
+16
+'Ingrese el mes'
+5
+1
+1
+M
+4
+1
+16
+'Ingrese el año'
+5
+1
+1
+A
+11
+1

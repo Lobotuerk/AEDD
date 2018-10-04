@@ -1,0 +1,378 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+Total1
+1
+0
+7
+Altura1
+1
+0
+9
+Cantidad1
+1
+0
+6
+3
+6
+Total2
+1
+0
+7
+Altura2
+1
+0
+9
+Cantidad2
+1
+0
+6
+3
+6
+Total3
+1
+0
+7
+Altura3
+1
+0
+9
+Cantidad3
+1
+0
+6
+3
+6
+Total4
+1
+0
+7
+Altura4
+1
+0
+9
+Cantidad4
+1
+0
+6
+3
+4
+MaxN
+1
+0
+3
+Max
+1
+0
+4
+MaxA
+0
+
+4
+1
+25
+'Ingrese numero de avion'
+5
+1
+3
+COD
+9
+1
+8
+COD != 0
+4
+1
+28
+'Ingrese duracion del vuelo'
+5
+1
+8
+Duracion
+4
+1
+41
+'Ingrese cantidad de pasajeros del vuelo'
+5
+1
+9
+Pasajeros
+4
+1
+33
+'Ingrese altura maxima alcanzada'
+5
+1
+6
+Altura
+7
+0
+1
+7
+COD = 1
+13
+6
+3
+6
+Total1
+17
+Total1 + Duracion
+9
+Cantidad1
+21
+Cantidad1 + Pasajeros
+7
+Altura1
+16
+Altura1 + Altura
+7
+0
+1
+14
+Cantidad > Max
+13
+6
+3
+3
+Max
+8
+Cantidad
+4
+MaxN
+3
+COD
+4
+MaxA
+6
+Altura
+13
+13
+7
+0
+1
+7
+COD = 2
+13
+6
+3
+6
+Total2
+17
+Total2 + Duracion
+9
+Cantidad2
+21
+Cantidad2 + Pasajeros
+7
+Altura2
+16
+Altura2 + Altura
+7
+0
+1
+14
+Cantidad > Max
+13
+6
+3
+3
+Max
+8
+Cantidad
+4
+MaxN
+3
+COD
+4
+MaxA
+6
+Altura
+13
+13
+7
+0
+1
+7
+COD = 3
+13
+6
+3
+6
+Total3
+17
+Total3 + Duracion
+9
+Cantidad3
+21
+Cantidad3 + Pasajeros
+7
+Altura3
+16
+Altura3 + Altura
+7
+0
+1
+14
+Cantidad > Max
+13
+6
+3
+3
+Max
+8
+Cantidad
+4
+MaxN
+3
+COD
+4
+MaxA
+6
+Altura
+13
+13
+7
+0
+1
+7
+COD = 4
+13
+6
+3
+6
+Total4
+17
+Total4 + Duracion
+9
+Cantidad4
+21
+Cantidad4 + Pasajeros
+7
+Altura4
+16
+Altura4 + Altura
+7
+0
+1
+14
+Cantidad > Max
+13
+6
+3
+3
+Max
+8
+Cantidad
+4
+MaxN
+3
+COD
+4
+MaxA
+6
+Altura
+13
+13
+4
+1
+25
+'Ingrese codigo de avion'
+5
+1
+3
+COD
+11
+6
+3
+4
+Min1
+11
+Total1 / 60
+4
+Min2
+11
+Total2 / 60
+4
+Min3
+11
+Total3 / 60
+6
+1
+4
+Min4
+10
+Total4/ 60
+4
+1
+198
+'Cantidades totales: -Avion 1: ',Total1, ' hs / ',Min1,' mins. -Avion 2: ', Total2, ' hs / ', Min2 ,' mins.  -Avion 3: ' ,Total3, ' hs / ' , Min3,' ' mins. -Avion 4: ', Total4, ' hs / ',Min4,' mins'
+7
+0
+1
+13
+Cantidad1 > 0
+13
+6
+1
+7
+Altura1
+19
+Altura1 / Cantidad1
+13
+7
+0
+1
+13
+Cantidad2 > 0
+13
+6
+1
+7
+Altura2
+19
+Altura2 / Cantidad2
+13
+7
+0
+1
+13
+Cantidad3 > 0
+13
+6
+1
+7
+Altura3
+19
+Altura3 / Cantidad3
+13
+7
+0
+1
+13
+Cantidad4 > 0
+13
+6
+1
+7
+Altura4
+19
+Altura4 / Cantidad4
+13
+4
+1
+155
+'Promedio alturas maximas: -Avion 1: ', Altura1, ' metros. -Avion 2: ', Altura2, ' metros. -Avion 3: ', Altura3, ' metros. -Avion 4: ', Altura4, ' metros.'
+4
+1
+105
+'Avion que mayor cantidad de pasajeros transporto en un solo viaje: ', MaxN, ' con una altura de: ', MaxA
+4
+1
+176
+'Cantidad total de pasajeros: -Avion 1: ', Cantidad1, ' pasajeros. -Avion 2: ',Cantidad2, ' pasajeros. -Avion 3: ', Cantidad3, ' pasajeros. -Avion 4: ', Cantidad4, ' pasajeros.
+1
